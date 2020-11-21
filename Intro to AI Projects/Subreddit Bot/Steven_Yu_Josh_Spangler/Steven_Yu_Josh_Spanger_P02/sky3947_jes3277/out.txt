@@ -1,0 +1,1056 @@
+TSSvTSH, iteration 0.0:
+Dev. set results:
+SVC: 48.21%, RFC: 55.78%
+Test set results:
+SVC: 51.39%, RFC: 53.39%
+
+------------------------------
+TSSvTSH, iteration 1.0:
+Dev. set results:
+SVC: 58.57%, RFC: 51.79%
+Test set results:
+SVC: 56.18%, RFC: 51.79%
+
+------------------------------
+TSSvTSH, iteration 2.0:
+Dev. set results:
+SVC: 61.35%, RFC: 51.0%
+Test set results:
+SVC: 52.19%, RFC: 49.8%
+
+------------------------------
+TSSvTSH, iteration 3.0:
+Dev. set results:
+SVC: 57.77%, RFC: 54.58%
+Test set results:
+SVC: 54.58%, RFC: 45.82%
+
+------------------------------
+TSSvTSH, iteration 4.0:
+Dev. set results:
+SVC: 55.38%, RFC: 57.77%
+Test set results:
+SVC: 55.78%, RFC: 49.0%
+
+------------------------------
+TSSvTSH, iteration 5.0:
+Dev. set results:
+SVC: 57.37%, RFC: 52.99%
+Test set results:
+SVC: 51.79%, RFC: 50.6%
+
+------------------------------
+TSSvTSH, iteration 6.0:
+Dev. set results:
+SVC: 58.57%, RFC: 53.78%
+Test set results:
+SVC: 51.0%, RFC: 48.21%
+
+------------------------------
+TSSvTSH, iteration 7.0:
+Dev. set results:
+SVC: 58.96%, RFC: 51.39%
+Test set results:
+SVC: 52.59%, RFC: 48.21%
+
+------------------------------
+TSSvTSH, iteration 8.0:
+Dev. set results:
+SVC: 59.36%, RFC: 51.0%
+Test set results:
+SVC: 52.59%, RFC: 51.0%
+
+------------------------------
+TSSvTSH, iteration 9.0:
+Dev. set results:
+SVC: 60.96%, RFC: 60.96%
+Test set results:
+SVC: 51.39%, RFC: 50.6%
+
+------------------------------
+TSSvTSH, iteration 10.0:
+Dev. set results:
+SVC: 61.35%, RFC: 62.15%
+Test set results:
+SVC: 49.0%, RFC: 47.41%
+
+------------------------------
+TSSvTSH, iteration 11.0:
+Dev. set results:
+SVC: 61.75%, RFC: 58.17%
+Test set results:
+SVC: 51.79%, RFC: 49.4%
+
+------------------------------
+TSSvTSH, iteration 12.0:
+Dev. set results:
+SVC: 62.15%, RFC: 58.96%
+Test set results:
+SVC: 52.19%, RFC: 49.8%
+
+------------------------------
+TSSvTSH, iteration 13.0:
+Dev. set results:
+SVC: 62.95%, RFC: 57.77%
+Test set results:
+SVC: 53.78%, RFC: 54.58%
+
+------------------------------
+TSSvTSH, iteration 14.0:
+Dev. set results:
+SVC: 63.75%, RFC: 59.36%
+Test set results:
+SVC: 54.18%, RFC: 54.58%
+
+------------------------------
+TSSvTSH, iteration 15.0:
+Dev. set results:
+SVC: 62.15%, RFC: 56.18%
+Test set results:
+SVC: 53.39%, RFC: 51.79%
+
+------------------------------
+TSSvTSH, iteration 16.0:
+Dev. set results:
+SVC: 62.15%, RFC: 60.16%
+Test set results:
+SVC: 53.78%, RFC: 53.39%
+
+------------------------------
+TSSvTSH, iteration 17.0:
+Dev. set results:
+SVC: 62.95%, RFC: 56.18%
+Test set results:
+SVC: 54.58%, RFC: 51.79%
+
+------------------------------
+TSSvTSH, iteration 18.0:
+Dev. set results:
+SVC: 64.14%, RFC: 58.17%
+Test set results:
+SVC: 52.59%, RFC: 53.78%
+
+------------------------------
+TSSvTSH, iteration 19.0:
+Dev. set results:
+SVC: 64.14%, RFC: 57.77%
+Test set results:
+SVC: 53.39%, RFC: 54.98%
+
+------------------------------
+TSSvTSH, iteration 20.0:
+Dev. set results:
+SVC: 64.54%, RFC: 60.16%
+Test set results:
+SVC: 55.38%, RFC: 52.59%
+
+------------------------------
+TSSvTSH, iteration 21.0:
+Dev. set results:
+SVC: 62.95%, RFC: 57.37%
+Test set results:
+SVC: 53.78%, RFC: 53.78%
+
+------------------------------
+TSSvTSH, iteration 22.0:
+Dev. set results:
+SVC: 63.75%, RFC: 58.17%
+Test set results:
+SVC: 56.18%, RFC: 51.79%
+
+------------------------------
+TSSvTSH, iteration 23.0:
+Dev. set results:
+SVC: 64.14%, RFC: 56.97%
+Test set results:
+SVC: 56.57%, RFC: 53.39%
+
+------------------------------
+TSSvTSH, iteration 24.0:
+Dev. set results:
+SVC: 62.95%, RFC: 57.37%
+Test set results:
+SVC: 57.37%, RFC: 52.59%
+
+------------------------------
+==============================
+OCPvTSH, iteration 0.0:
+Dev. set results:
+SVC: 94.82%, RFC: 94.42%
+Test set results:
+SVC: 94.82%, RFC: 92.03%
+
+------------------------------
+OCPvTSH, iteration 1.0:
+Dev. set results:
+SVC: 96.81%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.02%
+
+------------------------------
+OCPvTSH, iteration 2.0:
+Dev. set results:
+SVC: 98.01%, RFC: 98.41%
+Test set results:
+SVC: 96.81%, RFC: 94.82%
+
+------------------------------
+OCPvTSH, iteration 3.0:
+Dev. set results:
+SVC: 98.8%, RFC: 98.41%
+Test set results:
+SVC: 96.81%, RFC: 95.62%
+
+------------------------------
+OCPvTSH, iteration 4.0:
+Dev. set results:
+SVC: 98.01%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+OCPvTSH, iteration 5.0:
+Dev. set results:
+SVC: 99.2%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.02%
+
+------------------------------
+OCPvTSH, iteration 6.0:
+Dev. set results:
+SVC: 99.2%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+OCPvTSH, iteration 7.0:
+Dev. set results:
+SVC: 98.8%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+OCPvTSH, iteration 8.0:
+Dev. set results:
+SVC: 98.41%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+OCPvTSH, iteration 9.0:
+Dev. set results:
+SVC: 98.41%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 95.62%
+
+------------------------------
+OCPvTSH, iteration 10.0:
+Dev. set results:
+SVC: 98.41%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+OCPvTSH, iteration 11.0:
+Dev. set results:
+SVC: 98.41%, RFC: 98.8%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+OCPvTSH, iteration 12.0:
+Dev. set results:
+SVC: 98.41%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 95.62%
+
+------------------------------
+OCPvTSH, iteration 13.0:
+Dev. set results:
+SVC: 98.8%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.02%
+
+------------------------------
+OCPvTSH, iteration 14.0:
+Dev. set results:
+SVC: 98.8%, RFC: 98.8%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+OCPvTSH, iteration 15.0:
+Dev. set results:
+SVC: 98.8%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+OCPvTSH, iteration 16.0:
+Dev. set results:
+SVC: 99.2%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+OCPvTSH, iteration 17.0:
+Dev. set results:
+SVC: 99.2%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+OCPvTSH, iteration 18.0:
+Dev. set results:
+SVC: 99.2%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+OCPvTSH, iteration 19.0:
+Dev. set results:
+SVC: 99.2%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+OCPvTSH, iteration 20.0:
+Dev. set results:
+SVC: 98.8%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+OCPvTSH, iteration 21.0:
+Dev. set results:
+SVC: 98.8%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+OCPvTSH, iteration 22.0:
+Dev. set results:
+SVC: 98.8%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+OCPvTSH, iteration 23.0:
+Dev. set results:
+SVC: 98.8%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+OCPvTSH, iteration 24.0:
+Dev. set results:
+SVC: 98.8%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+==============================
+HvTSH, iteration 0.0:
+Dev. set results:
+SVC: 73.31%, RFC: 65.34%
+Test set results:
+SVC: 70.52%, RFC: 68.92%
+
+------------------------------
+HvTSH, iteration 1.0:
+Dev. set results:
+SVC: 72.51%, RFC: 70.12%
+Test set results:
+SVC: 74.5%, RFC: 69.32%
+
+------------------------------
+HvTSH, iteration 2.0:
+Dev. set results:
+SVC: 72.51%, RFC: 76.1%
+Test set results:
+SVC: 76.1%, RFC: 78.49%
+
+------------------------------
+HvTSH, iteration 3.0:
+Dev. set results:
+SVC: 72.11%, RFC: 75.3%
+Test set results:
+SVC: 74.9%, RFC: 78.09%
+
+------------------------------
+HvTSH, iteration 4.0:
+Dev. set results:
+SVC: 75.7%, RFC: 74.9%
+Test set results:
+SVC: 80.08%, RFC: 77.69%
+
+------------------------------
+HvTSH, iteration 5.0:
+Dev. set results:
+SVC: 75.3%, RFC: 77.69%
+Test set results:
+SVC: 82.87%, RFC: 77.69%
+
+------------------------------
+HvTSH, iteration 6.0:
+Dev. set results:
+SVC: 76.1%, RFC: 78.49%
+Test set results:
+SVC: 81.27%, RFC: 80.08%
+
+------------------------------
+HvTSH, iteration 7.0:
+Dev. set results:
+SVC: 76.49%, RFC: 79.68%
+Test set results:
+SVC: 82.47%, RFC: 82.87%
+
+------------------------------
+HvTSH, iteration 8.0:
+Dev. set results:
+SVC: 80.08%, RFC: 78.88%
+Test set results:
+SVC: 83.27%, RFC: 81.67%
+
+------------------------------
+HvTSH, iteration 9.0:
+Dev. set results:
+SVC: 80.08%, RFC: 81.27%
+Test set results:
+SVC: 84.86%, RFC: 86.06%
+
+------------------------------
+HvTSH, iteration 10.0:
+Dev. set results:
+SVC: 80.88%, RFC: 81.27%
+Test set results:
+SVC: 85.26%, RFC: 84.46%
+
+------------------------------
+HvTSH, iteration 11.0:
+Dev. set results:
+SVC: 79.28%, RFC: 83.27%
+Test set results:
+SVC: 85.26%, RFC: 86.85%
+
+------------------------------
+HvTSH, iteration 12.0:
+Dev. set results:
+SVC: 80.88%, RFC: 84.06%
+Test set results:
+SVC: 86.45%, RFC: 88.84%
+
+------------------------------
+HvTSH, iteration 13.0:
+Dev. set results:
+SVC: 80.48%, RFC: 85.26%
+Test set results:
+SVC: 85.26%, RFC: 87.25%
+
+------------------------------
+HvTSH, iteration 14.0:
+Dev. set results:
+SVC: 82.07%, RFC: 84.06%
+Test set results:
+SVC: 85.26%, RFC: 86.45%
+
+------------------------------
+HvTSH, iteration 15.0:
+Dev. set results:
+SVC: 82.87%, RFC: 83.27%
+Test set results:
+SVC: 84.86%, RFC: 86.06%
+
+------------------------------
+HvTSH, iteration 16.0:
+Dev. set results:
+SVC: 81.67%, RFC: 84.46%
+Test set results:
+SVC: 85.26%, RFC: 89.24%
+
+------------------------------
+HvTSH, iteration 17.0:
+Dev. set results:
+SVC: 81.67%, RFC: 86.85%
+Test set results:
+SVC: 85.26%, RFC: 86.45%
+
+------------------------------
+HvTSH, iteration 18.0:
+Dev. set results:
+SVC: 82.87%, RFC: 85.26%
+Test set results:
+SVC: 84.86%, RFC: 89.24%
+
+------------------------------
+HvTSH, iteration 19.0:
+Dev. set results:
+SVC: 84.06%, RFC: 86.06%
+Test set results:
+SVC: 87.25%, RFC: 90.04%
+
+------------------------------
+HvTSH, iteration 20.0:
+Dev. set results:
+SVC: 83.67%, RFC: 85.26%
+Test set results:
+SVC: 87.25%, RFC: 89.24%
+
+------------------------------
+HvTSH, iteration 21.0:
+Dev. set results:
+SVC: 84.46%, RFC: 84.86%
+Test set results:
+SVC: 86.45%, RFC: 87.65%
+
+------------------------------
+HvTSH, iteration 22.0:
+Dev. set results:
+SVC: 84.46%, RFC: 86.85%
+Test set results:
+SVC: 85.26%, RFC: 88.84%
+
+------------------------------
+HvTSH, iteration 23.0:
+Dev. set results:
+SVC: 85.26%, RFC: 88.05%
+Test set results:
+SVC: 86.06%, RFC: 87.25%
+
+------------------------------
+HvTSH, iteration 24.0:
+Dev. set results:
+SVC: 85.66%, RFC: 86.85%
+Test set results:
+SVC: 86.06%, RFC: 88.84%
+
+------------------------------
+==============================
+OCPvTSS, iteration 0.0:
+Dev. set results:
+SVC: 92.43%, RFC: 98.41%
+Test set results:
+SVC: 90.44%, RFC: 94.02%
+
+------------------------------
+OCPvTSS, iteration 1.0:
+Dev. set results:
+SVC: 96.02%, RFC: 97.61%
+Test set results:
+SVC: 92.43%, RFC: 95.22%
+
+------------------------------
+OCPvTSS, iteration 2.0:
+Dev. set results:
+SVC: 97.21%, RFC: 98.41%
+Test set results:
+SVC: 95.22%, RFC: 96.02%
+
+------------------------------
+OCPvTSS, iteration 3.0:
+Dev. set results:
+SVC: 97.61%, RFC: 98.41%
+Test set results:
+SVC: 96.02%, RFC: 96.41%
+
+------------------------------
+OCPvTSS, iteration 4.0:
+Dev. set results:
+SVC: 98.01%, RFC: 98.41%
+Test set results:
+SVC: 96.02%, RFC: 96.41%
+
+------------------------------
+OCPvTSS, iteration 5.0:
+Dev. set results:
+SVC: 98.8%, RFC: 98.8%
+Test set results:
+SVC: 96.02%, RFC: 97.21%
+
+------------------------------
+OCPvTSS, iteration 6.0:
+Dev. set results:
+SVC: 98.8%, RFC: 98.41%
+Test set results:
+SVC: 96.41%, RFC: 96.41%
+
+------------------------------
+OCPvTSS, iteration 7.0:
+Dev. set results:
+SVC: 98.01%, RFC: 98.41%
+Test set results:
+SVC: 96.41%, RFC: 96.41%
+
+------------------------------
+OCPvTSS, iteration 8.0:
+Dev. set results:
+SVC: 98.41%, RFC: 98.41%
+Test set results:
+SVC: 95.62%, RFC: 96.41%
+
+------------------------------
+OCPvTSS, iteration 9.0:
+Dev. set results:
+SVC: 98.8%, RFC: 98.8%
+Test set results:
+SVC: 96.81%, RFC: 96.41%
+
+------------------------------
+OCPvTSS, iteration 10.0:
+Dev. set results:
+SVC: 98.8%, RFC: 98.41%
+Test set results:
+SVC: 96.41%, RFC: 96.41%
+
+------------------------------
+OCPvTSS, iteration 11.0:
+Dev. set results:
+SVC: 98.8%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+OCPvTSS, iteration 12.0:
+Dev. set results:
+SVC: 98.8%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+OCPvTSS, iteration 13.0:
+Dev. set results:
+SVC: 98.8%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+OCPvTSS, iteration 14.0:
+Dev. set results:
+SVC: 98.8%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+OCPvTSS, iteration 15.0:
+Dev. set results:
+SVC: 98.8%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+OCPvTSS, iteration 16.0:
+Dev. set results:
+SVC: 98.8%, RFC: 98.8%
+Test set results:
+SVC: 97.21%, RFC: 96.02%
+
+------------------------------
+OCPvTSS, iteration 17.0:
+Dev. set results:
+SVC: 98.41%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.81%
+
+------------------------------
+OCPvTSS, iteration 18.0:
+Dev. set results:
+SVC: 98.41%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+OCPvTSS, iteration 19.0:
+Dev. set results:
+SVC: 98.41%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+OCPvTSS, iteration 20.0:
+Dev. set results:
+SVC: 98.41%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+OCPvTSS, iteration 21.0:
+Dev. set results:
+SVC: 98.41%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+OCPvTSS, iteration 22.0:
+Dev. set results:
+SVC: 98.41%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+OCPvTSS, iteration 23.0:
+Dev. set results:
+SVC: 98.41%, RFC: 98.41%
+Test set results:
+SVC: 97.61%, RFC: 96.41%
+
+------------------------------
+OCPvTSS, iteration 24.0:
+Dev. set results:
+SVC: 98.41%, RFC: 98.41%
+Test set results:
+SVC: 97.61%, RFC: 96.02%
+
+------------------------------
+==============================
+HvTSS, iteration 0.0:
+Dev. set results:
+SVC: 69.32%, RFC: 70.12%
+Test set results:
+SVC: 70.52%, RFC: 70.92%
+
+------------------------------
+HvTSS, iteration 1.0:
+Dev. set results:
+SVC: 74.5%, RFC: 72.51%
+Test set results:
+SVC: 77.29%, RFC: 72.51%
+
+------------------------------
+HvTSS, iteration 2.0:
+Dev. set results:
+SVC: 76.89%, RFC: 74.1%
+Test set results:
+SVC: 78.88%, RFC: 73.71%
+
+------------------------------
+HvTSS, iteration 3.0:
+Dev. set results:
+SVC: 77.29%, RFC: 79.28%
+Test set results:
+SVC: 76.49%, RFC: 76.89%
+
+------------------------------
+HvTSS, iteration 4.0:
+Dev. set results:
+SVC: 78.88%, RFC: 80.08%
+Test set results:
+SVC: 77.69%, RFC: 80.48%
+
+------------------------------
+HvTSS, iteration 5.0:
+Dev. set results:
+SVC: 82.47%, RFC: 80.88%
+Test set results:
+SVC: 81.27%, RFC: 82.87%
+
+------------------------------
+HvTSS, iteration 6.0:
+Dev. set results:
+SVC: 82.07%, RFC: 79.28%
+Test set results:
+SVC: 82.47%, RFC: 82.87%
+
+------------------------------
+HvTSS, iteration 7.0:
+Dev. set results:
+SVC: 82.87%, RFC: 83.27%
+Test set results:
+SVC: 82.47%, RFC: 83.27%
+
+------------------------------
+HvTSS, iteration 8.0:
+Dev. set results:
+SVC: 82.87%, RFC: 81.67%
+Test set results:
+SVC: 83.27%, RFC: 82.47%
+
+------------------------------
+HvTSS, iteration 9.0:
+Dev. set results:
+SVC: 83.67%, RFC: 83.67%
+Test set results:
+SVC: 83.67%, RFC: 83.67%
+
+------------------------------
+HvTSS, iteration 10.0:
+Dev. set results:
+SVC: 81.67%, RFC: 83.27%
+Test set results:
+SVC: 84.06%, RFC: 83.27%
+
+------------------------------
+HvTSS, iteration 11.0:
+Dev. set results:
+SVC: 81.27%, RFC: 83.27%
+Test set results:
+SVC: 84.86%, RFC: 85.26%
+
+------------------------------
+HvTSS, iteration 12.0:
+Dev. set results:
+SVC: 82.07%, RFC: 80.88%
+Test set results:
+SVC: 85.26%, RFC: 83.27%
+
+------------------------------
+HvTSS, iteration 13.0:
+Dev. set results:
+SVC: 82.87%, RFC: 85.26%
+Test set results:
+SVC: 84.06%, RFC: 88.45%
+
+------------------------------
+HvTSS, iteration 14.0:
+Dev. set results:
+SVC: 82.47%, RFC: 80.08%
+Test set results:
+SVC: 84.06%, RFC: 84.46%
+
+------------------------------
+HvTSS, iteration 15.0:
+Dev. set results:
+SVC: 82.87%, RFC: 85.26%
+Test set results:
+SVC: 84.46%, RFC: 86.45%
+
+------------------------------
+HvTSS, iteration 16.0:
+Dev. set results:
+SVC: 84.06%, RFC: 82.87%
+Test set results:
+SVC: 84.86%, RFC: 85.66%
+
+------------------------------
+HvTSS, iteration 17.0:
+Dev. set results:
+SVC: 82.47%, RFC: 83.67%
+Test set results:
+SVC: 85.26%, RFC: 85.66%
+
+------------------------------
+HvTSS, iteration 18.0:
+Dev. set results:
+SVC: 82.87%, RFC: 84.86%
+Test set results:
+SVC: 84.86%, RFC: 85.26%
+
+------------------------------
+HvTSS, iteration 19.0:
+Dev. set results:
+SVC: 83.67%, RFC: 85.26%
+Test set results:
+SVC: 84.86%, RFC: 85.26%
+
+------------------------------
+HvTSS, iteration 20.0:
+Dev. set results:
+SVC: 84.06%, RFC: 82.87%
+Test set results:
+SVC: 85.26%, RFC: 85.26%
+
+------------------------------
+HvTSS, iteration 21.0:
+Dev. set results:
+SVC: 83.27%, RFC: 84.86%
+Test set results:
+SVC: 86.06%, RFC: 84.46%
+
+------------------------------
+HvTSS, iteration 22.0:
+Dev. set results:
+SVC: 83.27%, RFC: 84.46%
+Test set results:
+SVC: 86.45%, RFC: 83.27%
+
+------------------------------
+HvTSS, iteration 23.0:
+Dev. set results:
+SVC: 83.67%, RFC: 84.46%
+Test set results:
+SVC: 85.66%, RFC: 84.06%
+
+------------------------------
+HvTSS, iteration 24.0:
+Dev. set results:
+SVC: 83.67%, RFC: 83.67%
+Test set results:
+SVC: 86.06%, RFC: 86.85%
+
+------------------------------
+==============================
+HvOCP, iteration 0.0:
+Dev. set results:
+SVC: 94.02%, RFC: 96.02%
+Test set results:
+SVC: 93.23%, RFC: 92.03%
+
+------------------------------
+HvOCP, iteration 1.0:
+Dev. set results:
+SVC: 98.01%, RFC: 98.41%
+Test set results:
+SVC: 96.41%, RFC: 94.42%
+
+------------------------------
+HvOCP, iteration 2.0:
+Dev. set results:
+SVC: 98.8%, RFC: 98.01%
+Test set results:
+SVC: 96.02%, RFC: 94.82%
+
+------------------------------
+HvOCP, iteration 3.0:
+Dev. set results:
+SVC: 98.8%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.02%
+
+------------------------------
+HvOCP, iteration 4.0:
+Dev. set results:
+SVC: 98.01%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+HvOCP, iteration 5.0:
+Dev. set results:
+SVC: 99.2%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+HvOCP, iteration 6.0:
+Dev. set results:
+SVC: 99.2%, RFC: 98.8%
+Test set results:
+SVC: 98.41%, RFC: 96.41%
+
+------------------------------
+HvOCP, iteration 7.0:
+Dev. set results:
+SVC: 98.8%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+HvOCP, iteration 8.0:
+Dev. set results:
+SVC: 99.2%, RFC: 98.41%
+Test set results:
+SVC: 97.21%, RFC: 96.02%
+
+------------------------------
+HvOCP, iteration 9.0:
+Dev. set results:
+SVC: 99.2%, RFC: 99.2%
+Test set results:
+SVC: 97.61%, RFC: 96.41%
+
+------------------------------
+HvOCP, iteration 10.0:
+Dev. set results:
+SVC: 99.2%, RFC: 98.8%
+Test set results:
+SVC: 97.21%, RFC: 96.02%
+
+------------------------------
+HvOCP, iteration 11.0:
+Dev. set results:
+SVC: 99.2%, RFC: 98.8%
+Test set results:
+SVC: 96.41%, RFC: 96.81%
+
+------------------------------
+HvOCP, iteration 12.0:
+Dev. set results:
+SVC: 99.2%, RFC: 98.41%
+Test set results:
+SVC: 96.41%, RFC: 96.41%
+
+------------------------------
+HvOCP, iteration 13.0:
+Dev. set results:
+SVC: 98.8%, RFC: 99.2%
+Test set results:
+SVC: 97.61%, RFC: 96.41%
+
+------------------------------
+HvOCP, iteration 14.0:
+Dev. set results:
+SVC: 98.8%, RFC: 98.8%
+Test set results:
+SVC: 96.81%, RFC: 96.41%
+
+------------------------------
+HvOCP, iteration 15.0:
+Dev. set results:
+SVC: 98.8%, RFC: 98.8%
+Test set results:
+SVC: 97.61%, RFC: 96.41%
+
+------------------------------
+HvOCP, iteration 16.0:
+Dev. set results:
+SVC: 98.8%, RFC: 99.2%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+HvOCP, iteration 17.0:
+Dev. set results:
+SVC: 98.8%, RFC: 98.8%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+HvOCP, iteration 18.0:
+Dev. set results:
+SVC: 98.41%, RFC: 99.2%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+HvOCP, iteration 19.0:
+Dev. set results:
+SVC: 98.41%, RFC: 98.8%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+HvOCP, iteration 20.0:
+Dev. set results:
+SVC: 98.41%, RFC: 99.2%
+Test set results:
+SVC: 97.21%, RFC: 96.41%
+
+------------------------------
+HvOCP, iteration 21.0:
+Dev. set results:
+SVC: 98.8%, RFC: 98.41%
+Test set results:
+SVC: 96.81%, RFC: 96.41%
+
+------------------------------
+HvOCP, iteration 22.0:
+Dev. set results:
+SVC: 99.2%, RFC: 98.8%
+Test set results:
+SVC: 96.81%, RFC: 96.41%
+
+------------------------------
+HvOCP, iteration 23.0:
+Dev. set results:
+SVC: 98.8%, RFC: 98.8%
+Test set results:
+SVC: 96.81%, RFC: 96.41%
+
+------------------------------
+HvOCP, iteration 24.0:
+Dev. set results:
+SVC: 98.8%, RFC: 99.2%
+Test set results:
+SVC: 96.81%, RFC: 96.02%
+
+------------------------------
+==============================
